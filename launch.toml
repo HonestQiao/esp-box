@@ -1,5 +1,5 @@
 esp_toml_version = 1.0
-firmware_images_url = "https://dl.espressif.com/AE/esp-box/"
+firmware_images_url = "https://dl.espressif.cn/AE/esp-box/"
 
 supported_apps = ["ESP-BOX_Demo_EN_V0_3_0", "ESP-BOX_Demo_CN_V0_3_0", "ESP-BOX_USB_Headset_V0_0_1"]
 
